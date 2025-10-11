@@ -8,7 +8,9 @@ Some existing tools, like Parkalot, already allow managers to create visual layo
 
 Parkmaster enables parking managers to create accurate parking lot blueprints that reflect real-world dimensions, including specialized parking for handicapped spaces and reserved employee spaces. Beyond layout design, Parkmaster will also provide tools for creating parking schedules and designations, such as assigning specific spots to employees, departments, or visitors.
 
-By simplifying layout planning and automating scheduling, Parkmaster will save time and operational effort for parking lot managers and companies, ensuring both efficiency and fairness in parking resource allocation.
+Parkmaster will also provide users quick and easy access to their assigned parking areas or spots. Once signed in, a User will be able to swiftly find the parking spot they're looking for, whether it is an assigned spot or area, and they can see how full certain parking lots are. Lastly, they will also be able to view their account details, including username and password information, and cars registered to their account.
+
+By simplifying layout planning and automating scheduling, Parkmaster will save time and operational effort for parking lot managers, users, and companies as a whole, ensuring both efficiency and fairness in parking resource allocation.
 
 
 # Links:
