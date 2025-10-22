@@ -10,6 +10,8 @@ Parkmaster enables parking managers to create accurate parking lot blueprints th
 
 By simplifying layout planning and automating scheduling, Parkmaster will save time and operational effort for parking lot managers and companies, ensuring both efficiency and fairness in parking resource allocation.
 
+# Domain model
+[Domain model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/UML_Diagram.png)
 
 # Links:
 
