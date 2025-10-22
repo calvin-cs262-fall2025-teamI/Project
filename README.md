@@ -12,6 +12,8 @@ Parkmaster will also provide users quick and easy access to their assigned parki
 
 By simplifying layout planning and automating scheduling, Parkmaster will save time and operational effort for parking lot managers, users, and companies as a whole, ensuring both efficiency and fairness in parking resource allocation.
 
+# Domain model
+[Domain model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/UML_Diagram.png)
 
 # Links:
 
