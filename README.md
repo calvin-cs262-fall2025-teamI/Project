@@ -1,7 +1,5 @@
 # Parkmaster
 
-## Vision Statement
-
 Parkmaster is a software solution designed for companies and organizations that manage private or employee parking lots. Unlike parking apps such as SpotHero or ParkWhiz, which focus on helping drivers find available public parking, Parkmaster belongs to the category of parking management software used by businesses to design, allocate, and oversee their parking resources.
 
 Some existing tools, like Parkalot, already allow managers to create visual layouts of parking lots and manage permits or reservations. However, Parkalot and similar apps often stop short of offering a comprehensive scheduling system that integrates both lot design and employee spot assignments.
@@ -12,8 +10,11 @@ Parkmaster will also provide users quick and easy access to their assigned parki
 
 By simplifying layout planning and automating scheduling, Parkmaster will save time and operational effort for parking lot managers, users, and companies as a whole, ensuring both efficiency and fairness in parking resource allocation.
 
-# Domain model
-[Domain model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/UML_Diagram.png)
+## Team Members
+By Josh Eilu, EJ Evans, Genevieve Osei-Owusu, Simon Troyer, and Max Wu
+
+## Domain model
+[Domain model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/domain_model_diagram.png)
 
 # Links:
 
