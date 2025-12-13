@@ -16,7 +16,7 @@ By Josh Eilu, EJ Evans, Genevieve Osei-Owusu, Simon Troyer, and Max Wu
 ## Models
 [Domain Model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/domain_model_diagram.png)
 [UI Model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/UI%20Model.png)
-[Deployment Diagram]()
+[Deployment Diagram](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/DeploymentDiagram.png)
 
 # Links:
 
