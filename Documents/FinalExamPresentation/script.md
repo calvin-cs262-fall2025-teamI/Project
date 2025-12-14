@@ -6,19 +6,19 @@ Raise your hand if you drive yourself to campus. Keep your hand up if you've eve
 Our app aims to solve situations like these.
 ## User Demo (Slide 3)
 (Showcase user side, going through each page left to right)
-## System Design (Slide 4)
+## System Design (Slide 4-5)
 Explain deployment diagram
 Explain vision statement
-## Admin Demo (Slide 5)
+## Admin Demo (Slide 6)
 (Showcase admin side, going through each page left to right)
-## Assessment (Slides 6-7)
+## Assessment (Slides 7-8)
 Discuss what's been implemented so far:
 - User getting directions, seeing schedule, editing profile
 - Admin viewing, creating, managing lots.
 Discuss strengths and weaknesses in system.
 Discuss future needs for release
 Discuss at least one of N. Postmans ideas on technology.
-## Q&A
+## Q&A (Slide 9)
 Take questions and direct them to best suited team member.
 
 # Roles
