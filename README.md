@@ -15,19 +15,19 @@ By Josh Eilu, EJ Evans, Genevieve Osei-Owusu, Simon Troyer, and Max Wu
 
 ## User Test
 
-[Test Report](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Documents/UsabilityTests/Usability%20Test%20Report.pdf)
+- [Test Report](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Documents/UsabilityTests/Usability%20Test%20Report.pdf)
 
-[User Test Script](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Documents/UsabilityTests/UserTestability.docx)
+- [User Test Script](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Documents/UsabilityTests/UserTestability.docx)
 
 ## Models
-[Domain Model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/domain_model_diagram.png)
+- [Domain Model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/domain_model_diagram.png)
 
-[UI Model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/UI%20Model.png)
+- [UI Model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/UI%20Model.png)
 
-[Deployment Diagram](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/DeploymentDiagram.png)
+- [Deployment Diagram](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/DeploymentDiagram.png)
 
-# Links:
+## Links:
 
-[Client Repository](https://github.com/calvin-cs262-fall2025-teamI/Client)
+- [Client Repository](https://github.com/calvin-cs262-fall2025-teamI/Client)
 
-[Service Repository](https://github.com/calvin-cs262-fall2025-teamI/Service)
+- [Service Repository](https://github.com/calvin-cs262-fall2025-teamI/Service)
