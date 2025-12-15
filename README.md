@@ -13,9 +13,16 @@ By simplifying layout planning and automating scheduling, Parkmaster will save t
 ## Team Members
 By Josh Eilu, EJ Evans, Genevieve Osei-Owusu, Simon Troyer, and Max Wu
 
+## User Test
+
+[Test Report](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Documents/UsabilityTests/Usability%20Test%20Report.pdf)
+[User Test Script](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Documents/UsabilityTests/UserTestability.docx)
+
 ## Models
 [Domain Model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/domain_model_diagram.png)
+
 [UI Model](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/UI%20Model.png)
+
 [Deployment Diagram](https://github.com/calvin-cs262-fall2025-teamI/Project/blob/main/Images/DeploymentDiagram.png)
 
 # Links:
