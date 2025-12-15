@@ -28,6 +28,6 @@ By Josh Eilu, EJ Evans, Genevieve Osei-Owusu, Simon Troyer, and Max Wu
 
 ## Links:
 
-[Client Repository](https://github.com/calvin-cs262-fall2025-teamI/Client)
+- [Client Repository](https://github.com/calvin-cs262-fall2025-teamI/Client)
 
-[Service Repository](https://github.com/calvin-cs262-fall2025-teamI/Service)
+- [Service Repository](https://github.com/calvin-cs262-fall2025-teamI/Service)
